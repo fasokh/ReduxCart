@@ -1,0 +1,33 @@
+{
+  "DUMMY_DATA": [
+    {
+      "id": "p1",
+      "title": "first book",
+      "price": 6,
+      "quantity": 2,
+      "totalPrice": 12
+    },
+    {
+      "id": "p2",
+      "price": 5,
+      "title": "second book",
+      "description": "my second book that I never wrote"
+    }
+  ],
+  "cart": [
+    {
+      "id": "p1",
+      "title": "first book",
+      "price": 6,
+      "quantity": 2,
+      "totalPrice": 12
+    },
+    {
+      "id": "p2",
+      "title": "second book",
+      "price": 5,
+      "quantity": 3,
+      "totalPrice": 15
+    }
+  ]
+}
